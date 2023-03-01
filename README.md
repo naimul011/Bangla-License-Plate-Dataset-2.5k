@@ -17,3 +17,6 @@ Upon downloading, you will get four directories:
 
 5. new data: Contains extra 308 images of variable size, 
 
+## Preview
+
+![alt text](fig_dataset.jpg)
