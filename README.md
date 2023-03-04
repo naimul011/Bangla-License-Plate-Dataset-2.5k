@@ -20,3 +20,17 @@ Upon downloading, you will get four directories:
 ## Preview
 
 ![alt text](fig_dataset.jpg)
+
+## Citation
+@dataset{naimul_haque_2022_7110401,
+  author       = {Naimul Haque and
+                  Mirajul Islam and
+                  Afrose Tithy and
+                  Samira Islam},
+  title        = {Bangla License Plate Dataset 2.5k},
+  month        = sep,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.7110401},
+  url          = {https://doi.org/10.5281/zenodo.7110401}
+}
